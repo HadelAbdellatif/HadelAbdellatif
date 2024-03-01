@@ -1,7 +1,5 @@
 # 👋 Hi! I'm Hadeel Abdellatif, a computer engineer in my last semester 🎓💻.
-<br>
-![Computer Engineering]([https://drive.google.com/uc?export=view&id=1_r9bbE_yDahHusQ6V6j3BL7h7G14GPj_](https://drive.google.com/file/d/1_r9bbE_yDahHusQ6V6j3BL7h7G14GPj_/view?usp=sharing
-))
+<br>![Computer Engineering](https://drive.google.com/uc?export=view&id=1_r9bbE_yDahHusQ6V6j3BL7h7G14GPj_)
 
 # ✨ About Me<be>
 🔭 Currently pursuing Computer Engineering at Birzeit University.<br>⚡ I'm into web development (both front and back end with ASP.NET), software creation, computer vision, AI's natural language processing, machine learning, and exploring embedded systems.<br>💬 Have any tech questions? Feel free to ask; I enjoy learning and assisting others!<br>📫 Let's connect! You can reach me at [your preferred contact method or handle].<br>
