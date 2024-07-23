@@ -1,4 +1,4 @@
-# 👋 Hi! I'm Hadeel Abdellatif, a computer engineer in my last semester 🎓💻.
+# 👋 Hi! I'm Hadeel Abdellatif, a computer engineer💻.
 <br>![Computer Engineering](https://drive.google.com/uc?export=view&id=1_r9bbE_yDahHusQ6V6j3BL7h7G14GPj_)
 
 # ✨ About Me<be>
