@@ -2,7 +2,7 @@
 <br>![Computer Engineering](https://drive.google.com/uc?export=view&id=1_r9bbE_yDahHusQ6V6j3BL7h7G14GPj_)
 
 # ✨ About Me<be>
-🔭 Currently pursuing Computer Engineering at Birzeit University.<br>⚡ I'm into web development (both front and back end with ASP.NET), software engineering, computer vision, AI's natural language processing, machine learning, and embedded systems.<br>💬 Have any tech questions? Feel free to ask, I enjoy learning and assisting others!<br>
+🎓 Graduated with a degree in Computer Engineering from Birzeit University in 2024.<br>⚡ I'm into web development (both front and back end with ASP.NET), software engineering, computer vision, AI's natural language processing, machine learning, and embedded systems.<br>💬 Have any tech questions? Feel free to ask, I enjoy learning and assisting others!<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/HadeelAbdellatif](https://www.linkedin.com/in/hadeel-abdellatif-89aa0124a/))
